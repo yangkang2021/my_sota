@@ -21,7 +21,7 @@
 
 ### 图生视频
 1. wan2.2
-2. huanyuan
+2. hunyuan
 3. veo3(不开源)
 
 ### 数字人
