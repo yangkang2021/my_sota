@@ -16,6 +16,7 @@
 2. 编码：Qwen-code
 3. 翻译：Hunyuan-MT-7B，支持33种语言
 4. 向量化：Qwen3-Embedding
+5. 多模态：Qwen3-omni，Janus-Pro，MiniCPM-v
 
 ### 文生图
 1. NanoBanana(不开源)
@@ -30,6 +31,10 @@
 ### 数字人
 1. 图片数字人：infiniteTalk，Wan2.2-S2V，Multitalk
 2. 对口型: HeyGem
+
+### 换脸
+1. DynamicFace
+2. FaceFusion
 
 ## 二、声音处理
 ### 语音识别
@@ -61,9 +66,7 @@
 ### 深度估计
 1. Depth Anything V2
 
-### 换脸
-1. DynamicFace
-2. FaceFusion
+
 
 ## 四、工具和研发
 1. [大模型应用开发](tools.md)
