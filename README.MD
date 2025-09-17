@@ -14,18 +14,18 @@
 ### 大语言模型(LLM)
 1. 问答：Qwen3，kimi2，DeepSeekV3.1
 2. 编码：Qwen-code
-
+3. 翻译：Hunyuan-MT-7B，支持33种语言
 ### 文生图
 1. NanoBanana(不开源)
 2. Qwen-Image
 
 ### 图生视频
 1. wan2.2
-2. hunyuan
+2. Hunyuan
 3. veo3(不开源)
 
 ### 数字人
-1. 图片数字人：infiniteTalk
+1. 图片数字人：infiniteTalk，Wan2.2-S2V，Multitalk
 2. 对口型: HeyGem
 
 ## 二、声音处理
