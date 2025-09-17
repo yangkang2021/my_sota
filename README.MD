@@ -47,10 +47,11 @@
 2. cosyvoice 3
 
 ## 三、视觉模型(CV)
-### 人脸检测与识别
+### 人脸(关键点)检测与识别
 1. mediapipe-face
 2. yolo-face
 3. insightface
+4. openface
 
 ### 目标检测
 1. yolo系列
@@ -66,7 +67,20 @@
 ### 深度估计
 1. Depth Anything V2
 
+### 人像抠图
+1. segnext
+2. BiRefNet V2
 
+### 视频镜头分割
+1. TransNetV2
+
+### ocr
+1. tesseract
+2. PP-OCR
+3. GOT-OCR2.0
+3. PP-StructureV3
+4. MinerU
+3. MonkeyOCR-3B
 
 ## 四、工具和研发
 1. [大模型应用开发](tools.md)
