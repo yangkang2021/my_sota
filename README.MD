@@ -15,9 +15,12 @@
 1. 问答：Qwen3，kimi2，DeepSeekV3.1
 2. 编码：Qwen-code
 3. 翻译：Hunyuan-MT-7B，支持33种语言
+4. 向量化：Qwen3-Embedding
+
 ### 文生图
 1. NanoBanana(不开源)
 2. Qwen-Image
+3. Qwen-Image-Edit
 
 ### 图生视频
 1. wan2.2
@@ -48,7 +51,7 @@
 1. yolo系列
 
 ### 图像分割
-1. DINOv3上手指南：改变视觉模型使用方式，一个模型搞定分割、检测、深度估计
+1. DINOv3：一个模型搞定分割、检测、深度估计
 2. Segment Anything Model 2 (SAM 2)
 3. DeepLabv3+
 
@@ -62,6 +65,8 @@
 1. DynamicFace
 2. FaceFusion
 
-
+## 四、工具和研发
+1. [大模型应用开发](tools.md)
+2. [常用开发框架](llm_app_dev.md)
 
 
