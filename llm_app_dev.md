@@ -22,9 +22,11 @@
 1. LangChain与LangGraph
 
 ## 开源项目
-1. dify
+1. ten framework
+2. dify
 2. ragflow
 3. n8n
 4. coze studio
 5. cherry studio
 6. fast gpt
+7. fay
